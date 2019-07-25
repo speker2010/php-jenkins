@@ -1,21 +1,26 @@
 <?php class App {
-    public function __construct() {
+    public function __construct() 
+    {
         return '';
     }
 
-    public function run() {
+    public function run() 
+    {
         return '';
     }
 
-    public function foo() {
+    public function foo() 
+    {
         return 'abc';
     }
 
-    public function bar() {
+    public function bar() 
+    {
         return 'sss';
     }
 
-    public function getTotal() {
+    public function getTotal()
+    {
         if(false){
             return 'sss';
         }
