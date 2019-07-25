@@ -4,17 +4,17 @@
         return '';
     }
 
-    public function run() 
+    public function run()
     {
         return '';
     }
 
-    public function foo() 
+    public function foo()
     {
         return 'abc';
     }
 
-    public function bar() 
+    public function bar()
     {
         return 'sss';
     }
